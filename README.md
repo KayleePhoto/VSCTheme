@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "carrot-hunter"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Carrot Hunter
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This theme is a personalization, whilst based on a Discord bot that I created.
+Created with the thought of pastel colors while holding a favorite color.
+This theme is meant to be a soft and *"cozy"*, "easy on the eyes" theme.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![Icon](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/J73pdgTc8jT9Rv0XsiypyNMTkvq1/4Qf8sxpi-default.jpeg)

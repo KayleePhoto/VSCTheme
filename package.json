@@ -3,6 +3,20 @@
     "displayName": "Carrot Hunter",
     "description": "A theme made after a Discord Bot",
     "version": "0.0.1",
+	 "publisher": "Kaylee",
+	 "icon": "BunMain.png",
+	 "repository": {
+		 "type": "git",
+		 "url": "https://github.com/KayleePhoto/VSCTheme"
+	 },
+	 "keywords": [
+		 "theme",
+		 "carrot",
+		 "hunter",
+		 "carrothunter",
+		 "carrot hunter",
+		 "dark"
+	 ],
     "engines": {
         "vscode": "^1.57.0"
     },
