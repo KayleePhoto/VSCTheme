@@ -1,0 +1,21 @@
+{
+    "name": "carrot-hunter",
+    "displayName": "Carrot Hunter",
+    "description": "A theme made after a Discord Bot",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Carrot Hunter",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Carrot Hunter-color-theme.json"
+            }
+        ]
+    }
+}
