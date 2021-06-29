@@ -1,5 +1,4 @@
 node_modules/
 *.vsix
 vsc-extenstion-quickstart.md
-.vscode/
 .vscodeignore
